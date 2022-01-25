@@ -1,5 +1,7 @@
 # Clair scanner
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/35ef1424-a5e0-4bea-9cb1-8dee5027288e.svg?orgId=271534534505)](https://app.soluble.cloud/repos/details/github.com/lingom-ksr/clair-cli?orgId=271534534505)  
+
 ![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)
 [![Build Status](https://travis-ci.org/arminc/clair-scanner.svg?branch=master)](https://travis-ci.org/arminc/clair-scanner)
 [![Go Report Card](https://goreportcard.com/badge/github.com/arminc/clair-scanner)](https://goreportcard.com/report/github.com/arminc/clair-scanner)
